@@ -1,3 +1,5 @@
+![icon](https://github.com/Mastermind-sap/Phonebook/blob/main/icon.png)
+
 # Phonebook
 Phonebook using python and connectivity to sql using sqlite3
 
