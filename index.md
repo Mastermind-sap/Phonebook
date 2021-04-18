@@ -1,4 +1,4 @@
-<img alt="icon" src="https://github.com/Mastermind-sap/Phonebook/blob/main/icon.png" 
+<img alt="icon" src="https://raw.githubusercontent.com/Mastermind-sap/Phonebook/main/icon.png" 
             style="height: 300px; width: 500px"/>
             
 ![icon](https://github.com/Mastermind-sap/Phonebook/blob/main/icon.png)
