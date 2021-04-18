@@ -1,7 +1,5 @@
 <img alt="icon" src="https://raw.githubusercontent.com/Mastermind-sap/Phonebook/main/icon.png" 
-            style="height: 300px; width: 500px"/>
-            
-![icon](https://github.com/Mastermind-sap/Phonebook/blob/main/icon.png)
+            style="height: 500px; width: 500px"/>
 
 # Phonebook
 Phonebook using python and connectivity to sql using sqlite3
@@ -9,16 +7,16 @@ Phonebook using python and connectivity to sql using sqlite3
 # Screenshots
 
 ## Login page
-![](https://github.com/Mastermind-sap/Phonebook/blob/main/screenshots/s1.JPG)
+<img alt="login" src="https://raw.githubusercontent.com/Mastermind-sap/Phonebook/main/screenshots/s1.JPG"/>
 
 ## Adding entry
-![](https://github.com/Mastermind-sap/Phonebook/blob/main/screenshots/s2.JPG)
+<img alt="add" src="https://raw.githubusercontent.com/Mastermind-sap/Phonebook/main/screenshots/s2.JPG"/>
 
 ## All phonebook records
-![](https://github.com/Mastermind-sap/Phonebook/blob/main/screenshots/s3.JPG)
+<img alt="records" src="https://raw.githubusercontent.com/Mastermind-sap/Phonebook/main/screenshots/s3.JPG"/>
 
 ## Deleting entry
-![](https://github.com/Mastermind-sap/Phonebook/blob/main/screenshots/s4.JPG)
+<img alt="delete" src="https://raw.githubusercontent.com/Mastermind-sap/Phonebook/main/screenshots/s4.JPG"/>
 
 ---
 
