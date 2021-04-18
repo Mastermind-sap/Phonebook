@@ -1,19 +1,21 @@
+![icon](https://github.com/Mastermind-sap/Phonebook/blob/main/icon.png)
+
 # Phonebook
 Phonebook using python and connectivity to sql using sqlite3
 
 # Screenshots
 
 ## Login page
-![Image](https://github.com/Mastermind-sap/Phonebook/blob/main/screenshots/s1.JPG)
+![](https://github.com/Mastermind-sap/Phonebook/blob/main/screenshots/s1.JPG)
 
 ## Adding entry
-![Image](https://github.com/Mastermind-sap/Phonebook/blob/main/screenshots/s2.JPG)
+![](https://github.com/Mastermind-sap/Phonebook/blob/main/screenshots/s2.JPG)
 
 ## All phonebook records
-![Image](https://github.com/Mastermind-sap/Phonebook/blob/main/screenshots/s3.JPG)
+![](https://github.com/Mastermind-sap/Phonebook/blob/main/screenshots/s3.JPG)
 
 ## Deleting entry
-![Image](https://github.com/Mastermind-sap/Phonebook/blob/main/screenshots/s4.JPG)
+![](https://github.com/Mastermind-sap/Phonebook/blob/main/screenshots/s4.JPG)
 
 ---
 
